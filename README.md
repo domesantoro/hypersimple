@@ -1,2 +1,16 @@
 # hypersimple
 Hypersimple board
+
+
+
+
+
+
+
+
+Runna con pm2
+
+pm2 start server.js --name board
+pm2 startup
++command
+pm2 save
