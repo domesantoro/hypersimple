@@ -1,0 +1,91 @@
+{
+    "sections": [
+        {
+            "id": "main",
+            "title": "Current",
+            "cards": [
+                {
+                    "title": "Uni",
+                    "items": [
+                        "SQL",
+                        "Semana de fuego?",
+                        "Medievale"
+                    ]
+                },
+                {
+                    "title": "Ferie",
+                    "items": [
+                        "Prendere i treni"
+                    ]
+                },
+                {
+                    "title": "Generale",
+                    "items": [
+                        "Hypersimple Board"
+                    ]
+                },
+                {
+                    "title": "Sopravvivenza",
+                    "items": [
+                        "Si ricomincia: CAM/HIIT",
+                        "Impegnativa tiroide"
+                    ]
+                },
+                {
+                    "title": "4Spicci",
+                    "items": []
+                },
+                {
+                    "title": "PBDU",
+                    "items": []
+                },
+                {
+                    "title": "Lavoro",
+                    "items": []
+                }
+            ]
+        },
+        {
+            "id": "secondary",
+            "title": "Secondarie",
+            "cards": [
+                {
+                    "title": "Uni",
+                    "items": [
+                        "Prosopografia?"
+                    ]
+                },
+                {
+                    "title": "Sopravvivenza",
+                    "items": [
+                        "Dentista",
+                        "Check-up"
+                    ]
+                },
+                {
+                    "title": "Musica",
+                    "items": [
+                        "Veteromelodico"
+                    ]
+                },
+                {
+                    "title": "Progetti",
+                    "items": [
+                        "Redde Rationem",
+                        "Samarqand",
+                        "Coro Nero"
+                    ]
+                },
+                {
+                    "title": "Altro",
+                    "items": [
+                        "LOTR Alliata",
+                        "LOTR Mara",
+                        "Scabrose",
+                        "Zia"
+                    ]
+                }
+            ]
+        }
+    ]
+}
