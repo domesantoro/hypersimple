@@ -20,7 +20,7 @@ function applyLoginTexts() {
     $("#login_password_label").text(loginL10n["login_password"]);
     $("#login_button").text(loginL10n["login_button"]);
     $("#login_about_toggle").text(loginL10n["login_about"]);
-    $("#login_disclaimer").text(loginL10n["login_disclaimer"]);
+    $("#login_disclaimer").html(loginL10n["login_disclaimer"]);
 }
 
 function bindLoginForm() {
